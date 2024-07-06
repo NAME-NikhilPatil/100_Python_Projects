@@ -4,36 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/100_Days_Python_Challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_1/Day_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_2/basic_datatypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_2/mathematical_operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_2/number_manupulation_and_fstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_2/tip_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_2/type_error_checking_conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/Pizza_deliveries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/leap_year_or_not.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/love_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/treasure_hunter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/my_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/random_bill.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/random_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/rock_paper_scissors_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_4/treasure_map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/adding_even_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/avg_height.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/highest_score_in_the_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/py_password_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_5/range.py" afterDir="false" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 1-5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +86,15 @@
       <option name="presentableId" value="Default" />
       <updated>1719998332269</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 1-5">
+      <option name="closed" value="true" />
+      <created>1720282532038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720282532038</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 1-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1-5" />
   </component>
 </project>
