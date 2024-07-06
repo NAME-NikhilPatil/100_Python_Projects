@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/100_Days_Python_Challenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_1/Day_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_2/basic_datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_2/mathematical_operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_2/number_manupulation_and_fstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_2/tip_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_2/type_error_checking_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/Pizza_deliveries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/leap_year_or_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/love_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/treasure_hunter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/my_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/random_bill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/random_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/rock_paper_scissors_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_4/treasure_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_5/FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_5/adding_even_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_5/avg_height.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_5/highest_score_in_the_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_5/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_5/py_password_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_5/range.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ijK1guatsvlpIMJxeRbNOvvbsT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Day_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pizza_deliveries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adding_even_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avg_height.executor&quot;: &quot;Run&quot;,
+    &quot;Python.highest_score_in_the_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leap_year_or_not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mathematical_operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_manupulation_and_fstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.py_password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_bill.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tip_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treasure_hunter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treasure_map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type_error_checking_conversion.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_2" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-eebebe6c2be4-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15325.20" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="" />
+      <created>1719998332269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719998332269</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
