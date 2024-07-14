@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 1-5" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 1-5">
+      <change afterPath="$PROJECT_DIR$/Day_10/Days_in_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_10/DocStrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_10/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_10/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_11/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_11/blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12/guess_the_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12/guess_the_number_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12/scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_6/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_7/hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_7/hangman_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_7/hangman_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_8/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_8/caesar_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_8/functions_with_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_8/paint_area_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_8/prime_number_checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_9/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_9/blind_action_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_9/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_9/dictionary_in_the_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_9/grading_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_9/nested_dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100_Days_Python_Challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_Days_Python_Challenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +52,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NAME-NikhilPatil&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NAME-NikhilPatil/100_Days_Python_Challenge.git&quot;,
+    &quot;accountId&quot;: &quot;576e5557-3026-437a-94d0-f3640432ed4e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -36,21 +77,37 @@
   "keyToString": {
     "Python.Day_1.executor": "Run",
     "Python.Day_2.executor": "Run",
+    "Python.Days_in_month.executor": "Run",
+    "Python.DocStrings.executor": "Run",
     "Python.FizzBuzz.executor": "Run",
     "Python.Pizza_deliveries.executor": "Run",
     "Python.adding_even_number.executor": "Run",
+    "Python.art.executor": "Run",
     "Python.avg_height.executor": "Run",
+    "Python.blackjack.executor": "Run",
+    "Python.blind_action_game.executor": "Run",
+    "Python.caesar_cipher.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.functions_with_input.executor": "Run",
+    "Python.grading_program.executor": "Run",
+    "Python.guess_the_number.executor": "Run",
+    "Python.guess_the_number_game.executor": "Run",
+    "Python.hangman.executor": "Run",
     "Python.highest_score_in_the_list.executor": "Run",
     "Python.leap_year_or_not.executor": "Run",
     "Python.list.executor": "Run",
     "Python.loops.executor": "Run",
     "Python.mathematical_operation.executor": "Run",
     "Python.number_manupulation_and_fstring.executor": "Run",
+    "Python.paint_area_calculator.executor": "Run",
     "Python.py_password_generator.executor": "Run",
     "Python.random_bill.executor": "Run",
     "Python.random_module.executor": "Run",
     "Python.range.executor": "Run",
     "Python.rock_paper_scissors_game.executor": "Run",
+    "Python.scope.executor": "Run",
     "Python.tip_calculator.executor": "Run",
     "Python.treasure_hunter.executor": "Run",
     "Python.treasure_map.executor": "Run",
@@ -59,11 +116,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_9" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_2" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_1" />
     </key>
@@ -71,7 +129,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-eebebe6c2be4-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15325.20" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -100,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720284397261</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 1-5">
+      <option name="closed" value="true" />
+      <created>1720284490386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720284490386</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
