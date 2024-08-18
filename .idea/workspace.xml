@@ -4,38 +4,87 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 6-12">
-      <change afterPath="$PROJECT_DIR$/Day_13/Debugging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_14/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_14/game_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_14/higher_lower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_15/coffee_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_16/another_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_16/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_16/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_16/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_16/money_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_16/turtle_exaple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_17/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_17/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_17/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_17/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_17/quiz_brain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/draw_all_shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/draw_dash_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/draw_spirograph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/draw_square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/hist_painting_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/module_import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_18/random_walk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_19/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_19/sketch_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_19/turtle_race_project.py" afterDir="false" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 13-19">
+      <change afterPath="$PROJECT_DIR$/Day_20_&amp;_21/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_20_&amp;_21/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_20_&amp;_21/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_20_&amp;_21/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_20_&amp;_21/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_22/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_22/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_22/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_22/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_23/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_23/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_23/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_23/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_24/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_24/Input/Names/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_24/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_24/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_24/main1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_25/50_states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_25/blank_states_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_25/create_dataframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_25/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_25/project_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_25/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_26/list_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_27-Mile_to_kilometer_converterk_with_gui/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_27-Mile_to_kilometer_converterk_with_gui/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_28-Pomodoro_with_GUI/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_28-Pomodoro_with_GUI/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_29-Password_Manager_with_GUI/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_29-Password_Manager_with_GUI/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_3/Pizza_deliveries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_3/Pizza_deliveries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_3/love_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_3/love_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_1/Day_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_1_Band_name_generator/Day_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/Days_in_month.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_10_Calculator_with_advance_concepts/Days_in_month.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/DocStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_10_Calculator_with_advance_concepts/DocStrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_10_Calculator_with_advance_concepts/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_10_Calculator_with_advance_concepts/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_11/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_11_BlackJack_Game/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_11/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_11_BlackJack_Game/blackjack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_12/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_12_Guess_the_number_game/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_12/guess_the_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_12_Guess_the_number_game/guess_the_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_12/guess_the_number_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_12_Guess_the_number_game/guess_the_number_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_12/scope.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_12_Guess_the_number_game/scope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_2/basic_datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2_Tip_Calculator/basic_datatypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_2/mathematical_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2_Tip_Calculator/mathematical_operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_2/number_manupulation_and_fstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2_Tip_Calculator/number_manupulation_and_fstring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_2/tip_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2_Tip_Calculator/tip_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_2/type_error_checking_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2_Tip_Calculator/type_error_checking_conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_3/Pizza_deliveries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_3_Treasure_hunter/Pizza_deliveries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_3/leap_year_or_not.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_3_Treasure_hunter/leap_year_or_not.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_3/love_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_3_Treasure_hunter/love_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_3/treasure_hunter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_3_Treasure_hunter/treasure_hunter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_4_Rock_Paper_scissors_game/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_4_Rock_Paper_scissors_game/my_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/random_bill.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_4_Rock_Paper_scissors_game/random_bill.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/random_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_4_Rock_Paper_scissors_game/random_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/rock_paper_scissors_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_4_Rock_Paper_scissors_game/rock_paper_scissors_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/treasure_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_4_Rock_Paper_scissors_game/treasure_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/FizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_5_Password_Generator/FizzBuzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/adding_even_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_5_Password_Generator/adding_even_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/avg_height.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_5_Password_Generator/avg_height.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/highest_score_in_the_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_5_Password_Generator/highest_score_in_the_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_5_Password_Generator/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/py_password_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_5_Password_Generator/py_password_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_5/range.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_5_Password_Generator/range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_7_Hangman_Game/hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_7_Hangman_Game/hangman_art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_7_Hangman_Game/hangman_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_8_Prime_number_checker/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_8_Prime_number_checker/caesar_cipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/functions_with_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_8_Prime_number_checker/functions_with_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/paint_area_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_8_Prime_number_checker/paint_area_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8/prime_number_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_8_Prime_number_checker/prime_number_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_9_Blind_Action_Game/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/blind_action_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_9_Blind_Action_Game/blind_action_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_9_Blind_Action_Game/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/dictionary_in_the_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_9_Blind_Action_Game/dictionary_in_the_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/grading_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_9_Blind_Action_Game/grading_program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_9/nested_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_9_Blind_Action_Game/nested_dictionary.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +139,7 @@
     "Python.adding_even_number.executor": "Run",
     "Python.art.executor": "Run",
     "Python.avg_height.executor": "Run",
+    "Python.ball.executor": "Run",
     "Python.basic_datatypes.executor": "Run",
     "Python.blackjack.executor": "Run",
     "Python.blind_action_game.executor": "Run",
@@ -98,6 +148,7 @@
     "Python.class.executor": "Run",
     "Python.coffee_machine.executor": "Run",
     "Python.coffee_maker.executor": "Run",
+    "Python.create_dataframe.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.draw_all_shapes.executor": "Run",
     "Python.draw_dash_line.executor": "Run",
@@ -115,6 +166,7 @@
     "Python.hist_painting_project.executor": "Run",
     "Python.leap_year_or_not.executor": "Run",
     "Python.list.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
     "Python.loops.executor": "Run",
     "Python.love_calculator.executor": "Run",
     "Python.main.executor": "Run",
@@ -122,6 +174,7 @@
     "Python.module_import.executor": "Run",
     "Python.number_manupulation_and_fstring.executor": "Run",
     "Python.paint_area_calculator.executor": "Run",
+    "Python.project_main.executor": "Run",
     "Python.py_password_generator.executor": "Run",
     "Python.question_model.executor": "Run",
     "Python.quiz_brain.executor": "Run",
@@ -131,7 +184,9 @@
     "Python.range.executor": "Run",
     "Python.rock_paper_scissors_game.executor": "Run",
     "Python.scope.executor": "Run",
+    "Python.scoreboard.executor": "Run",
     "Python.sketch_app.executor": "Run",
+    "Python.snake.executor": "Run",
     "Python.tip_calculator.executor": "Run",
     "Python.treasure_hunter.executor": "Run",
     "Python.treasure_map.executor": "Run",
@@ -143,15 +198,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/sharm/PycharmProjects/100_Days_Python_Challenge/Day_28-Pomodoro_with_GUI",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_28-Pomodoro_with_GUI" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_29" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_24" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_23" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_29" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_25" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_18" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_9" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_2" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -202,8 +265,19 @@
       <option name="project" value="LOCAL" />
       <updated>1720958890541</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Day 13-19">
+      <option name="closed" value="true" />
+      <created>1721481430727</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721481430727</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -219,6 +293,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1-5" />
     <MESSAGE value="Day 6-12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 6-12" />
+    <MESSAGE value="Day 13-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 13-19" />
   </component>
 </project>
