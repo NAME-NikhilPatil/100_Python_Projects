@@ -4,12 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 20-29">
-      <change beforePath="$PROJECT_DIR$/.idea/100_Days_Python_Challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_Days_Python_Challenge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 30 and 31">
+      <change afterPath="$PROJECT_DIR$/Day_17_&amp;_34_Quiz_brain/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_32_Automatic_Birthday_Wisher/birthdays.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_32_Automatic_Birthday_Wisher/letter_templates/letter_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_32_Automatic_Birthday_Wisher/letter_templates/letter_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_32_Automatic_Birthday_Wisher/letter_templates/letter_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_32_Automatic_Birthday_Wisher/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_32_Automatic_Birthday_Wisher/month_motivational_quotes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_32_Automatic_Birthday_Wisher/quotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_33_ISS_Tracker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_35_Weather_Tracker_Throught_SMS/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_36_Stock_Trading_News_Alert_Project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_37_Habit_Tracker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kanye_quotes/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kanye_quotes/kanye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kanye_quotes/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_29-Password_Manager_with_GUI/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Day_29_&amp;_30-Password_Manager_with_GUI/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_29-Password_Manager_with_GUI/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_29_&amp;_30-Password_Manager_with_GUI/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_17_Quiz_brain/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_17_&amp;_34_Quiz_brain/class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_17_Quiz_brain/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_17_&amp;_34_Quiz_brain/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_17_Quiz_brain/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_17_&amp;_34_Quiz_brain/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_17_Quiz_brain/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_17_&amp;_34_Quiz_brain/question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_17_Quiz_brain/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_17_&amp;_34_Quiz_brain/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day_25_US_State_Game/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_25/50_states.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day_25_US_State_Game/50_states.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_25/blank_states_img.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Day_25_US_State_Game/blank_states_img.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_25/create_dataframe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_25_US_State_Game/create_dataframe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_25/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_25_US_State_Game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_25/project_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_25_US_State_Game/project_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_25/weather_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day_25_US_State_Game/weather_data.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,95 +72,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Day_1.executor": "Run",
-    "Python.Day_2.executor": "Run",
-    "Python.Days_in_month.executor": "Run",
-    "Python.Debugging.executor": "Run",
-    "Python.DocStrings.executor": "Run",
-    "Python.FizzBuzz.executor": "Run",
-    "Python.Pizza_deliveries.executor": "Run",
-    "Python.adding_even_number.executor": "Run",
-    "Python.art.executor": "Run",
-    "Python.avg_height.executor": "Run",
-    "Python.ball.executor": "Run",
-    "Python.basic_datatypes.executor": "Run",
-    "Python.blackjack.executor": "Run",
-    "Python.blind_action_game.executor": "Run",
-    "Python.caesar_cipher.executor": "Run",
-    "Python.calculator.executor": "Run",
-    "Python.class.executor": "Run",
-    "Python.coffee_machine.executor": "Run",
-    "Python.coffee_maker.executor": "Run",
-    "Python.create_dataframe.executor": "Run",
-    "Python.dictionary.executor": "Run",
-    "Python.draw_all_shapes.executor": "Run",
-    "Python.draw_dash_line.executor": "Run",
-    "Python.draw_spirograph.executor": "Run",
-    "Python.draw_square.executor": "Run",
-    "Python.drawing_circle.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.functions_with_input.executor": "Run",
-    "Python.grading_program.executor": "Run",
-    "Python.guess_the_number.executor": "Run",
-    "Python.guess_the_number_game.executor": "Run",
-    "Python.hangman.executor": "Run",
-    "Python.higher_lower.executor": "Run",
-    "Python.highest_score_in_the_list.executor": "Run",
-    "Python.hist_painting_project.executor": "Run",
-    "Python.leap_year_or_not.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.list_comprehension.executor": "Run",
-    "Python.loops.executor": "Run",
-    "Python.love_calculator.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mathematical_operation.executor": "Run",
-    "Python.module_import.executor": "Run",
-    "Python.number_manupulation_and_fstring.executor": "Run",
-    "Python.paint_area_calculator.executor": "Run",
-    "Python.project_main.executor": "Run",
-    "Python.py_password_generator.executor": "Run",
-    "Python.question_model.executor": "Run",
-    "Python.quiz_brain.executor": "Run",
-    "Python.random_bill.executor": "Run",
-    "Python.random_module.executor": "Run",
-    "Python.random_walk.executor": "Run",
-    "Python.range.executor": "Run",
-    "Python.rock_paper_scissors_game.executor": "Run",
-    "Python.scope.executor": "Run",
-    "Python.scoreboard.executor": "Run",
-    "Python.sketch_app.executor": "Run",
-    "Python.snake.executor": "Run",
-    "Python.tip_calculator.executor": "Run",
-    "Python.treasure_hunter.executor": "Run",
-    "Python.treasure_map.executor": "Run",
-    "Python.turtle.executor": "Run",
-    "Python.turtle_exaple.executor": "Run",
-    "Python.turtle_race_project.executor": "Run",
-    "Python.type_error_checking_conversion.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/sharm/PycharmProjects/100_Days_Python_Challenge",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Day_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Days_in_month.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Debugging.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DocStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pizza_deliveries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adding_even_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.art.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avg_height.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ball.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blackjack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blind_action_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.caesar_cipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coffee_machine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coffee_maker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create_dataframe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draw_all_shapes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draw_dash_line.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draw_spirograph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draw_square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.drawing_circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions_with_input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grading_program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_the_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_the_number_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hangman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.higher_lower.executor&quot;: &quot;Run&quot;,
+    &quot;Python.highest_score_in_the_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hist_painting_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leap_year_or_not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.love_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mathematical_operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_import.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_manupulation_and_fstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paint_area_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.py_password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_bill.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_walk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scope.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scoreboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sketch_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tip_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treasure_hunter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treasure_map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_exaple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_race_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type_error_checking_conversion.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sharm/PycharmProjects/100_Days_Python_Challenge/Day_33&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_33" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Kanye_quotes" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_32" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_31_Flash_Card_Project" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_28-Pomodoro_with_GUI" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_29" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_24" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_23" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_37_Habit_Tracker" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_36_Stock_Trading_News_Alert_Project" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_17_&amp;_34_Quiz_brain" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_29" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_25" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_18" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_9" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_2" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -204,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723985045758</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day 30 and 31">
+      <option name="closed" value="true" />
+      <created>1724331297191</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724331297191</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -226,6 +258,7 @@
     <MESSAGE value="Day 6-12" />
     <MESSAGE value="Day 13-19" />
     <MESSAGE value="Day 20-29" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 20-29" />
+    <MESSAGE value="Day 30 and 31" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 30 and 31" />
   </component>
 </project>
