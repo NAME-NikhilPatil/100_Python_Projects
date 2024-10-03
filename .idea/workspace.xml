@@ -4,34 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 32 and 37">
-      <change afterPath="$PROJECT_DIR$/Day_38_Workout_tracking_using_python/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_38_Workout_tracking_using_python/env_for_replit.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_38_Workout_tracking_using_python/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_39_&amp;_40_Flight_deal_Finder/data_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_39_&amp;_40_Flight_deal_Finder/flight_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_39_&amp;_40_Flight_deal_Finder/flight_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_39_&amp;_40_Flight_deal_Finder/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_39_&amp;_40_Flight_deal_Finder/notification_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_41_Web_Foundation_ignore_this_lol/goal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_41_Web_Foundation_ignore_this_lol/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_41_Web_Foundation_ignore_this_lol/solution.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_42_BirthDay_invite_website_lol_ignore_this/goal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_42_BirthDay_invite_website_lol_ignore_this/solution.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/assets/images/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/assets/images/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/assets/images/orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/assets/images/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/assets/images/yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/goal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/assets/images/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/assets/images/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/assets/images/orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/assets/images/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/assets/images/yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/solution.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/style.css" afterDir="false" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 38 and 43">
+      <change afterPath="$PROJECT_DIR$/Day_44_Motivational_Poster_Website/assets/images/daenerys.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_44_Motivational_Poster_Website/goal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_44_Motivational_Poster_Website/solution/assets/images/daenerys.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_44_Motivational_Poster_Website/solution/solution.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_44_Motivational_Poster_Website/solution/solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_44_Motivational_Poster_Website/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_45_Web_Scrapping_with_beautiful_soup/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_45_Web_Scrapping_with_beautiful_soup/movies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_45_Web_Scrapping_with_beautiful_soup/web_scrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_46_Creating_a_spotify_playlist_using_music_time_machine(Billboard_top_100_songs)/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_47_automated_amazon_price_tracker/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_47_automated_amazon_price_tracker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_48_Selenium_Webdriver_Browser_and_Game_Playing_Bot/automated_cookie_clicker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_48_Selenium_Webdriver_Browser_and_Game_Playing_Bot/iteraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_48_Selenium_Webdriver_Browser_and_Game_Playing_Bot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_49_Automating_job_applications_on_linkedin/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_50_Auto_tinder_swiping_bot(LoL this bot never works)/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_51_Twitter_complaining_bot/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_32_Automatic_Birthday_Wisher/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_32_Automatic_Birthday_Wisher/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/assets/images/blue.png" beforeDir="false" afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/main/assets/images/blue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/assets/images/green.png" beforeDir="false" afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/main/assets/images/green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/assets/images/orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/main/assets/images/orange.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/assets/images/red.png" beforeDir="false" afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/main/assets/images/red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/assets/images/yellow.png" beforeDir="false" afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/main/assets/images/yellow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/solution.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/main/solution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_43_Color_vocal_website/solution/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Day_43_Color_vocal_website/main/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +82,7 @@
     "Python.Pizza_deliveries.executor": "Run",
     "Python.adding_even_number.executor": "Run",
     "Python.art.executor": "Run",
+    "Python.automated_cookie_clicker.executor": "Run",
     "Python.avg_height.executor": "Run",
     "Python.ball.executor": "Run",
     "Python.basic_datatypes.executor": "Run",
@@ -108,6 +109,7 @@
     "Python.higher_lower.executor": "Run",
     "Python.highest_score_in_the_list.executor": "Run",
     "Python.hist_painting_project.executor": "Run",
+    "Python.iteraction.executor": "Run",
     "Python.leap_year_or_not.executor": "Run",
     "Python.list.executor": "Run",
     "Python.list_comprehension.executor": "Run",
@@ -143,17 +145,17 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/sharm/PycharmProjects/100_Days_Python_Challenge/Day_43_Color_vocal_website",
+    "last_opened_file_path": "C:/Users/sharm/PycharmProjects/100_Days_Python_Challenge/Day_45_Web_Scrapping_with_beautiful_soup",
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_45_Web_Scrapping_with_beautiful_soup" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_44_Motivational_Poster_Website" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_43_Color_vocal_website" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_42_BirthDay_invite_website_lol_ignore_this" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_40_Web_Foundation" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_39_Flight_deal_Finder" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_38_Workout_tracking_using_python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_40_Web_Foundation" />
@@ -278,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724507262800</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Day 38 and 43">
+      <option name="closed" value="true" />
+      <created>1727947129347</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727947129347</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -302,6 +312,7 @@
     <MESSAGE value="Day 20-29" />
     <MESSAGE value="Day 30 and 31" />
     <MESSAGE value="Day 32 and 37" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 32 and 37" />
+    <MESSAGE value="Day 38 and 43" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 38 and 43" />
   </component>
 </project>
