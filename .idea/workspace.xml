@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 53 and 60">
-      <change afterPath="$PROJECT_DIR$/Day_61_Building_advanced_froms_with_flask_WTForms/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_61_Building_advanced_froms_with_flask_WTForms/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_62_Advanced_Flask,WTForms,Bootstrap_CSV_Coffee_Website/cafe-data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_62_Advanced_Flask,WTForms,Bootstrap_CSV_Coffee_Website/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_62_Advanced_Flask,WTForms,Bootstrap_CSV_Coffee_Website/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_63_Virtual_BookShelf/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_63_Virtual_BookShelf/requirements.txt" afterDir="false" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 61 and 65">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
@@ -288,13 +282,36 @@
       <option name="project" value="LOCAL" />
       <updated>1728483833041</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Day 61 and 65">
+      <option name="closed" value="true" />
+      <created>1728654643899</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728654643899</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -315,6 +332,9 @@
     <MESSAGE value="Day 38 and 43" />
     <MESSAGE value="Day 44 and 52" />
     <MESSAGE value="Day 53 and 60" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 53 and 60" />
+    <MESSAGE value="fixup! Day 61 and 65" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Day 61 and 65" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 61 and 65" />
   </component>
 </project>
