@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 67">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 68" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,11 +134,11 @@
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_40_Web_Foundation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_68_Flask_add" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_67_Advanced_blog_capstone__restful_routing" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_66_Creating_my_own_API" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_63_Virtual_BookShelf" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_62_Advanced_Flask,WTForms,Bootstrap_CSV_Coffee_Website" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_61_Building_advanced_froms_with_flask_WTForms" />
     </key>
   </component>
   <component name="RunManager">
@@ -322,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728656840827</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Day 68">
+      <option name="closed" value="true" />
+      <created>1728661399059</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728661399059</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -370,6 +376,7 @@
     <MESSAGE value="Day 61 and 65" />
     <MESSAGE value="Day 66" />
     <MESSAGE value="Day 67" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 67" />
+    <MESSAGE value="Day 68" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 68" />
   </component>
 </project>
