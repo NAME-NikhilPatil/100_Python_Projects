@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 68" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 69">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git_testing_repo/chapter2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/git_testing_repo/chapter2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git_testing_repo/chapter3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/git_testing_repo/chapter3.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,11 +139,11 @@
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_40_Web_Foundation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_69_Blog_capstone_project_adding_users" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_68_Flask_add" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_67_Advanced_blog_capstone__restful_routing" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_66_Creating_my_own_API" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_63_Virtual_BookShelf" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_62_Advanced_Flask,WTForms,Bootstrap_CSV_Coffee_Website" />
     </key>
   </component>
   <component name="RunManager">
@@ -328,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728661399059</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Day 69">
+      <option name="closed" value="true" />
+      <created>1728661766835</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728661766835</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -377,6 +390,7 @@
     <MESSAGE value="Day 66" />
     <MESSAGE value="Day 67" />
     <MESSAGE value="Day 68" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 68" />
+    <MESSAGE value="Day 69" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 69" />
   </component>
 </project>
