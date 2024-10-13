@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_71" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_72">
+      <change beforePath="$PROJECT_DIR$/Day_71_Data_Exploration_with_pandas_college_major/Data_Exploration_Pandas_College_Major_(complete).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day_72_Data_Exploration_with_pandas_college_major/Data_Exploration_Pandas_College_Major_(complete).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_71_Data_Exploration_with_pandas_college_major/salaries_by_college_major.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day_72_Data_Exploration_with_pandas_college_major/salaries_by_college_major.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_72_Data_Visualization_using_Matplotlib_Language_comparison/Programming_Languages_(complete).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day_73_Data_Visualization_using_Matplotlib_Language_comparison/Programming_Languages_(complete).ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,11 +138,11 @@
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_40_Web_Foundation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_72_Data_Visualization_using_Matplotlib_Language_comparison" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_71_Data_Exploration_with_pandas_college_major" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_69_Blog_capstone_project_adding_users" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_68_Flask_add" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_67_Advanced_blog_capstone__restful_routing" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_66_Creating_my_own_API" />
     </key>
   </component>
   <component name="RunManager">
@@ -392,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728814260784</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Day_72">
+      <option name="closed" value="true" />
+      <created>1728814738869</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1728814738869</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -455,6 +467,7 @@
     <MESSAGE value="Git and Github learning hehe" />
     <MESSAGE value="Day_70_about_copy_pasting_from_github_lol" />
     <MESSAGE value="Day_71" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_71" />
+    <MESSAGE value="Day_72" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_72" />
   </component>
 </project>
