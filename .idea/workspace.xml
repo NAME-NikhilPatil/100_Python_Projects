@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_92">
-      <change afterPath="$PROJECT_DIR$/Day_93_Custom_Web_Scrapper/scrapper.py" afterDir="false" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_93">
+      <change afterPath="$PROJECT_DIR$/Day_94_Automating_Google_Dinosaur_game/dino.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_94_Automating_Google_Dinosaur_game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,17 +128,17 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/sharm/PycharmProjects/100_Days_Python_Challenge/Day_45_Web_Scrapping_with_beautiful_soup",
+    "last_opened_file_path": "C:/Users/sharm/PycharmProjects/100_Days_Python_Challenge/Day_94_Automating_Google_Dinosaur_game",
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_94_Automating_Google_Dinosaur_game" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_45_Web_Scrapping_with_beautiful_soup" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_44_Motivational_Poster_Website" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_43_Color_vocal_website" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_42_BirthDay_invite_website_lol_ignore_this" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_40_Web_Foundation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_87_BreakoutGame" />
@@ -533,7 +535,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728832854431</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Day_93">
+      <option name="closed" value="true" />
+      <created>1728833207922</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1728833207922</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -577,7 +587,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 61 and 65" />
     <MESSAGE value="Day 66" />
     <MESSAGE value="Day 67" />
     <MESSAGE value="Day 68" />
@@ -602,6 +611,7 @@
     <MESSAGE value="Day_90" />
     <MESSAGE value="Day_91_PDF_To_AudioBook_Converter" />
     <MESSAGE value="Day_92" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_92" />
+    <MESSAGE value="Day_93" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_93" />
   </component>
 </project>
