@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_90">
-      <change afterPath="$PROJECT_DIR$/Day_91_PDF_TO_AudioBook/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_91_PDF_To_AudioBook_Converter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -517,7 +514,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728831909595</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Day_91_PDF_To_AudioBook_Converter">
+      <option name="closed" value="true" />
+      <created>1728832529282</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1728832529282</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -561,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixup! Day 61 and 65" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Day 61 and 65" />
     <MESSAGE value="Day 66" />
@@ -586,6 +590,7 @@
     <MESSAGE value="Day_86_I_use_chatgpt_for_this" />
     <MESSAGE value="Day_87" />
     <MESSAGE value="Day_90" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_90" />
+    <MESSAGE value="Day_91_PDF_To_AudioBook_Converter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_91_PDF_To_AudioBook_Converter" />
   </component>
 </project>
