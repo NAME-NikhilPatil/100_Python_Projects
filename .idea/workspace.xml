@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_77" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_78" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,11 +134,11 @@
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_40_Web_Foundation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_78_Seaborn_Linear_Regressio" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_77_Computation_with_Numpy" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_76_Google_PlayStore_Analysis" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_75_Google_Trends_Data_Resampling_and_visualizing" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_74_Aggregate_and_merge_data_pandas_Lego_Notebook_and_data" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_72_Data_Visualization_using_Matplotlib_Language_comparison" />
     </key>
   </component>
   <component name="RunManager">
@@ -432,7 +432,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728815721144</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Day_78">
+      <option name="closed" value="true" />
+      <created>1728815916523</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1728815916523</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -500,6 +508,7 @@
     <MESSAGE value="Day_75" />
     <MESSAGE value="Day_76" />
     <MESSAGE value="Day_77" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_77" />
+    <MESSAGE value="Day_78" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_78" />
   </component>
 </project>
