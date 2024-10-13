@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_91_PDF_To_AudioBook_Converter" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_92">
+      <change afterPath="$PROJECT_DIR$/Day_93_Custom_Web_Scrapper/scrapper.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +109,7 @@
     "Python.rock_paper_scissors_game.executor": "Run",
     "Python.scope.executor": "Run",
     "Python.scoreboard.executor": "Run",
+    "Python.scrapper.executor": "Run",
     "Python.simple_morse_code_converter.executor": "Run",
     "Python.sketch_app.executor": "Run",
     "Python.snake.executor": "Run",
@@ -522,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728832529282</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Day_92">
+      <option name="closed" value="true" />
+      <created>1728832854431</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1728832854431</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -566,7 +577,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Day 61 and 65" />
     <MESSAGE value="Day 66" />
     <MESSAGE value="Day 67" />
@@ -591,6 +601,7 @@
     <MESSAGE value="Day_87" />
     <MESSAGE value="Day_90" />
     <MESSAGE value="Day_91_PDF_To_AudioBook_Converter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_91_PDF_To_AudioBook_Converter" />
+    <MESSAGE value="Day_92" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_92" />
   </component>
 </project>
