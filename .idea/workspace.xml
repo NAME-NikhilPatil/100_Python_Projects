@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_78" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_80" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,87 +44,87 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Day_1.executor": "Run",
-    "Python.Day_2.executor": "Run",
-    "Python.Days_in_month.executor": "Run",
-    "Python.Debugging.executor": "Run",
-    "Python.DocStrings.executor": "Run",
-    "Python.FizzBuzz.executor": "Run",
-    "Python.Pizza_deliveries.executor": "Run",
-    "Python.adding_even_number.executor": "Run",
-    "Python.art.executor": "Run",
-    "Python.automated_cookie_clicker.executor": "Run",
-    "Python.avg_height.executor": "Run",
-    "Python.ball.executor": "Run",
-    "Python.basic_datatypes.executor": "Run",
-    "Python.blackjack.executor": "Run",
-    "Python.blind_action_game.executor": "Run",
-    "Python.caesar_cipher.executor": "Run",
-    "Python.calculator.executor": "Run",
-    "Python.class.executor": "Run",
-    "Python.coffee_machine.executor": "Run",
-    "Python.coffee_maker.executor": "Run",
-    "Python.create_dataframe.executor": "Run",
-    "Python.dictionary.executor": "Run",
-    "Python.draw_all_shapes.executor": "Run",
-    "Python.draw_dash_line.executor": "Run",
-    "Python.draw_spirograph.executor": "Run",
-    "Python.draw_square.executor": "Run",
-    "Python.drawing_circle.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.functions_with_input.executor": "Run",
-    "Python.grading_program.executor": "Run",
-    "Python.guess_the_number.executor": "Run",
-    "Python.guess_the_number_game.executor": "Run",
-    "Python.hangman.executor": "Run",
-    "Python.higher_lower.executor": "Run",
-    "Python.highest_score_in_the_list.executor": "Run",
-    "Python.hist_painting_project.executor": "Run",
-    "Python.iteraction.executor": "Run",
-    "Python.leap_year_or_not.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.list_comprehension.executor": "Run",
-    "Python.loops.executor": "Run",
-    "Python.love_calculator.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mathematical_operation.executor": "Run",
-    "Python.module_import.executor": "Run",
-    "Python.number_manupulation_and_fstring.executor": "Run",
-    "Python.paint_area_calculator.executor": "Run",
-    "Python.post.executor": "Run",
-    "Python.project_main.executor": "Run",
-    "Python.py_password_generator.executor": "Run",
-    "Python.python_advanced_decorators.executor": "Run",
-    "Python.python_decorators.executor": "Run",
-    "Python.question_model.executor": "Run",
-    "Python.quiz_brain.executor": "Run",
-    "Python.random_bill.executor": "Run",
-    "Python.random_module.executor": "Run",
-    "Python.random_walk.executor": "Run",
-    "Python.range.executor": "Run",
-    "Python.rock_paper_scissors_game.executor": "Run",
-    "Python.scope.executor": "Run",
-    "Python.scoreboard.executor": "Run",
-    "Python.sketch_app.executor": "Run",
-    "Python.snake.executor": "Run",
-    "Python.tip_calculator.executor": "Run",
-    "Python.treasure_hunter.executor": "Run",
-    "Python.treasure_map.executor": "Run",
-    "Python.turtle.executor": "Run",
-    "Python.turtle_exaple.executor": "Run",
-    "Python.turtle_race_project.executor": "Run",
-    "Python.type_error_checking_conversion.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/sharm/PycharmProjects/100_Days_Python_Challenge/Day_45_Web_Scrapping_with_beautiful_soup",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Day_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Days_in_month.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Debugging.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DocStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pizza_deliveries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adding_even_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.art.executor&quot;: &quot;Run&quot;,
+    &quot;Python.automated_cookie_clicker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.avg_height.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ball.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blackjack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blind_action_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.caesar_cipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coffee_machine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coffee_maker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create_dataframe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draw_all_shapes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draw_dash_line.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draw_spirograph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draw_square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.drawing_circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions_with_input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grading_program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_the_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_the_number_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hangman.executor&quot;: &quot;Run&quot;,
+    &quot;Python.higher_lower.executor&quot;: &quot;Run&quot;,
+    &quot;Python.highest_score_in_the_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hist_painting_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iteraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leap_year_or_not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.love_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mathematical_operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_import.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number_manupulation_and_fstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paint_area_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.post.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.py_password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_advanced_decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz_brain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_bill.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_walk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scope.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scoreboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sketch_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tip_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treasure_hunter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treasure_map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_exaple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_race_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type_error_checking_conversion.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sharm/PycharmProjects/100_Days_Python_Challenge/Day_45_Web_Scrapping_with_beautiful_soup&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_45_Web_Scrapping_with_beautiful_soup" />
@@ -134,11 +134,11 @@
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_40_Web_Foundation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_80_Dr_Semmelweis_Analysis" />
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_79_Nobel_Prize_Analysis_using_plotly_Matplotlib_Seaborn" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_78_Seaborn_Linear_Regressio" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_77_Computation_with_Numpy" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_76_Google_PlayStore_Analysis" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_75_Google_Trends_Data_Resampling_and_visualizing" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_74_Aggregate_and_merge_data_pandas_Lego_Notebook_and_data" />
     </key>
   </component>
   <component name="RunManager">
@@ -440,7 +440,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728815916523</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Day_79">
+      <option name="closed" value="true" />
+      <created>1728816148862</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1728816148862</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Day_80">
+      <option name="closed" value="true" />
+      <created>1728816341621</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1728816341621</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -484,8 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 1-5" />
-    <MESSAGE value="Day 6-12" />
     <MESSAGE value="Day 13-19" />
     <MESSAGE value="Day 20-29" />
     <MESSAGE value="Day 30 and 31" />
@@ -509,6 +523,8 @@
     <MESSAGE value="Day_76" />
     <MESSAGE value="Day_77" />
     <MESSAGE value="Day_78" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_78" />
+    <MESSAGE value="Day_79" />
+    <MESSAGE value="Day_80" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_80" />
   </component>
 </project>
