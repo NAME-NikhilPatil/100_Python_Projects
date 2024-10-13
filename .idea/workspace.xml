@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day 69">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_testing_repo/chapter2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/git_testing_repo/chapter2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_testing_repo/chapter3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/git_testing_repo/chapter3.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -341,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728661766835</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Day 69">
+      <option name="closed" value="true" />
+      <created>1728663205207</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728663205207</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="UnknownFeatures">
