@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_87" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_90">
+      <change afterPath="$PROJECT_DIR$/Day_91_PDF_TO_AudioBook/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -506,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728831567592</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Day_90">
+      <option name="closed" value="true" />
+      <created>1728831909595</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1728831909595</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -550,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 53 and 60" />
     <MESSAGE value="fixup! Day 61 and 65" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Day 61 and 65" />
@@ -575,6 +585,7 @@
     <MESSAGE value="Day_85" />
     <MESSAGE value="Day_86_I_use_chatgpt_for_this" />
     <MESSAGE value="Day_87" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_87" />
+    <MESSAGE value="Day_90" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_90" />
   </component>
 </project>
