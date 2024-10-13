@@ -11,7 +11,7 @@ def restart_game():
 
 def get_game_region():
     """Returns the region of the game on the screen."""
-    # You need to adjust these coordinates based on your screen resolution and game position
+
     return (100, 100, 800, 300)  # (left, top, right, bottom)
 
 
@@ -23,14 +23,12 @@ def get_game_image(game_region):
 
 def detect_obstacle(current_frame, previous_frame):
     """Detects obstacles by comparing the current frame with the previous one."""
-    # Define the area to watch for obstacles
+
     watch_area = current_frame[100:150, 100:300]  # Adjust these values based on your game
     prev_watch_area = previous_frame[100:150, 100:300]
 
-    # Calculate the difference between frames
     diff = np.abs(watch_area.astype(int) - prev_watch_area.astype(int))
 
-    # If there's a significant change, consider it an obstacle
     return np.sum(diff) > 1000  # Adjust this threshold based on testing
 
 
