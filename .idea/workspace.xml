@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_70_about_copy_pasting_from_github_lol">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wordle-Game" beforeDir="false" />
-    </list>
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_71" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +21,7 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project_demo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -138,11 +134,11 @@
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_40_Web_Foundation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_71_Data_Exploration_with_pandas_college_major" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_69_Blog_capstone_project_adding_users" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_68_Flask_add" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_67_Advanced_blog_capstone__restful_routing" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_66_Creating_my_own_API" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_63_Virtual_BookShelf" />
     </key>
   </component>
   <component name="RunManager">
@@ -388,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728805728282</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Day_71">
+      <option name="closed" value="true" />
+      <created>1728814260784</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1728814260784</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -450,6 +454,7 @@
     <MESSAGE value="Day 69" />
     <MESSAGE value="Git and Github learning hehe" />
     <MESSAGE value="Day_70_about_copy_pasting_from_github_lol" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_70_about_copy_pasting_from_github_lol" />
+    <MESSAGE value="Day_71" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_71" />
   </component>
 </project>
