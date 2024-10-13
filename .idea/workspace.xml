@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_81">
-      <change afterPath="$PROJECT_DIR$/Day_82_Text_Morse_Code_Converter/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_82_Text_Morse_Code_Converter/simple_morse_code_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_82_Text_Morse_Code_Converter/sounds.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_82">
+      <change afterPath="$PROJECT_DIR$/Day_84_Tic _ac_Toe_game/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -471,7 +468,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728828924261</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Day_82">
+      <option name="closed" value="true" />
+      <created>1728830128856</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1728830128856</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -515,7 +520,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 20-29" />
     <MESSAGE value="Day 30 and 31" />
     <MESSAGE value="Day 32 and 37" />
     <MESSAGE value="Day 38 and 43" />
@@ -540,6 +544,7 @@
     <MESSAGE value="Day_79" />
     <MESSAGE value="Day_80" />
     <MESSAGE value="Day_81" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_81" />
+    <MESSAGE value="Day_82" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_82" />
   </component>
 </project>
