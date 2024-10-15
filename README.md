@@ -37,28 +37,30 @@ This repository contains Python projects from my 100 Days of Python Challenge. E
 26. [Day 27: Mile to Kilometer Converter with GUI](Day_27-Mile_to_kilometer_converter_with_gui/)
 27. [Day 28: Pomodoro with GUI](Day_28-Pomodoro_with_GUI/)
 28. [Day 29 & 30: Password Manager with GUI](Day_29_&_30-Password_Manager_with_GUI/)
-
-### Day 31 to Day 40
 29. [Day 31: Flash Card Project](Day_31-Flash_Card_Project/)
 30. [Day 32: Automatic Birthday Wisher](Day_32-Automatic_Birthday_Wisher/)
-31. [Day 33: ISS Tracker](Day_33-ISS_Tracker/)
-32. [Day 35: Weather Tracker via SMS](Day_35-Weather_Tracker_Through_SMS/)
-33. [Day 36: Stock Trading News Alert](Day_36-Stock_Trading_News_Alert_Project/)
-34. [Day 37: Habit Tracker](Day_37-Habit_Tracker/)
-35. [Day 38: Workout Tracking Using Python](Day_38-Workout_tracking_using_python/)
-36. [Day 39 & 40: Flight Deal Finder](Day_39_&_40-Flight_deal_Finder/)
+
+### Day 31 to Day 40
+31. [Day 31: Flash Card Project](Day_31-Flash_Card_Project/)
+32. [Day 32: Automatic Birthday Wisher](Day_32-Automatic_Birthday_Wisher/)
+33. [Day 33: ISS Tracker](Day_33-ISS_Tracker/)
+35. [Day 35: Weather Tracker via SMS](Day_35-Weather_Tracker_Through_SMS/)
+36. [Day 36: Stock Trading News Alert](Day_36-Stock_Trading_News_Alert_Project/)
+37. [Day 37: Habit Tracker](Day_37-Habit_Tracker/)
+38. [Day 38: Workout Tracking Using Python](Day_38-Workout_tracking_using_python/)
+39 and 40. [Day 39 & 40: Flight Deal Finder](Day_39_&_40-Flight_deal_Finder/)
 
 ### Day 41 to Day 50
-37. [Day 41: Web Development Basics](Day_41-Web_Foundation/)
-38. [Day 42: Birthday Invite Website](Day_42-Birthday_invite_website/)
-39. [Day 43: Color Picker Website](Day_43-Color_vocal_website/)
-40. [Day 44: Motivational Poster Website](Day_44-Motivational_Poster_Website/)
-41. [Day 45: Web Scraping with Beautiful Soup](Day_45-Web_Scrapping_with_beautiful_soup/)
-42. [Day 46: Spotify Playlist Using Music Time Machine](Day_46-Creating_a_spotify_playlist_using_music_time_machine/)
-43. [Day 47: Automated Amazon Price Tracker](Day_47-automated_amazon_price_tracker/)
-44. [Day 48: Selenium Webdriver Browser and Game Playing Bot](Day_48-Selenium_Webdriver_Browser_and_Game_Playing_Bot/)
-45. [Day 49: Automating Job Applications on LinkedIn](Day_49-Automating_job_applications_on_linkedin/)
-46. [Day 50: Auto Tinder Swiping Bot](Day_50-Auto_tinder_swiping_bot/)
+41. [Day 41: Web Development Basics](Day_41-Web_Foundation/)
+42. [Day 42: Birthday Invite Website](Day_42-Birthday_invite_website/)
+43. [Day 43: Color Picker Website](Day_43-Color_vocal_website/)
+44. [Day 44: Motivational Poster Website](Day_44-Motivational_Poster_Website/)
+45. [Day 45: Web Scraping with Beautiful Soup](Day_45-Web_Scrapping_with_beautiful_soup/)
+46. [Day 46: Spotify Playlist Using Music Time Machine](Day_46-Creating_a_spotify_playlist_using_music_time_machine/)
+47. [Day 47: Automated Amazon Price Tracker](Day_47-automated_amazon_price_tracker/)
+48. [Day 48: Selenium Webdriver Browser and Game Playing Bot](Day_48-Selenium_Webdriver_Browser_and_Game_Playing_Bot/)
+49. [Day 49: Automating Job Applications on LinkedIn](Day_49-Automating_job_applications_on_linkedin/)
+50. [Day 50: Auto Tinder Swiping Bot](Day_50-Auto_tinder_swiping_bot/)
 
 ...
 
