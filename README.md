@@ -70,7 +70,7 @@ Welcome to my **100 Days of Python Challenge**! 🐍 This repository features Py
 51. 🐦 [Day 51: Twitter Complaining Bot](Day_51_Twitter_complaining_bot/)
 52. 📸 [Day 52: Instagram Follower Bot](Day_52_Instagram_follower_bot/)
 53. 📊 [Day 53: Web Scraping & Data Entry Job](Day_53_Web_scrapping_&_data_entry_job/)
-54. 📜 [Day 54: Python Decorators](Day_54_Completed_code_for_day_54(learn about decorators in python  oops no project today )/)
+54. 📜 [Day 54: Python Decorators](Day_54_Completed_code_for_day_54(learn about decorators in python  oops no project today )
 55. 🔗 [Day 55: Higher or Lower URLs](Day_55_Higher_or_lower_urls/)
 56. 🖼️ [Day 56: Name Card Website using Flask](Day_56_Name_Card_Website_using_Flask/)
 57. 📝 [Day 57: Blog Capstone Project](Day_57_Blog_Capstone_Project/)
