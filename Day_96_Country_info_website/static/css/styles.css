@@ -1,0 +1,101 @@
+body {
+    background: #E6E2C3;
+    color: #1C315E;
+    display: flex;
+    flex-direction: column;
+    font-family: "Arial";
+    min-height: 100vh;
+    text-align: center;
+}
+
+a {
+    color: #227C70;
+}
+
+a:hover {
+    color: #88A47C
+}
+
+footer{
+    background: #227C70;
+    margin-top: auto;
+    padding-top: 20px;
+    width: 100%;
+}
+
+h1 {
+    font-weight: 700;
+    margin: 20px 0px;
+}
+
+label {
+    font-weight: 500;
+}
+
+td {
+    padding: 5px 20px;
+    text-align: left;
+}
+
+.btn {
+    background-color: #227C70;
+    border-color: #227C70;
+    margin: 30px 0;
+}
+
+.btn:hover, btn:active {
+    background-color: #88A47C;
+    border-color: #88A47C;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.copyright {
+    color: #E6E2C3;
+    font-size: 0.7rem;
+}
+
+.fa-circle {
+    color: #E6E2C3;
+}
+
+.fa-inverse {
+    color: #227C70
+}
+
+.fa-inverse:hover {
+    color: #88A47C
+}
+
+.flag {
+    width: 5%;
+}
+
+.icon-text{
+    font-size: 0.5rem;
+    margin-top: 50px;
+}
+
+.icon-text a{
+    color: #E6E2C3;
+}
+
+.logo{
+    margin: 0 20px;
+    width: 5%;
+}
+
+.map {
+    border: 0;
+    height: 250px;
+    margin-top: 20px;
+    width: 450px;
+}
+
+.navbar{
+    background: #227C70;
+    padding: 0 16px;
+}

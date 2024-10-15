@@ -1,0 +1,60 @@
+{% include "header.html" %}
+
+<h1> {{country_data[0]["name"]["common"]}}  <img class="flag" src={{country_data[0]["flags"]["png"]}} alt=" "> </h1>
+
+
+<table class="center">
+    <tr>
+        <td>Official Name:</td>
+        <td>{{country_data[0]["name"]["official"]}}</td>
+    </tr>
+     <tr>
+        <td>Currency:</td>
+        <td>{{currency[1]}} ({{currency[0]}}), symbol: {{currency[2]}}</td>
+    </tr>
+     <tr>
+        <td>Capital:</td>
+        <td>{{country_data[0]["capital"][0]}}</td>
+    </tr>
+    <tr>
+        <td>Continent:</td>
+        <td>{{country_data[0]["continents"][0]}}</td>
+    </tr>
+    <tr>
+        <td>Region:</td>
+        <td>{{country_data[0]["subregion"]}}</td>
+    </tr>
+    <tr>
+        <td>Languages:</td>
+        <td> {% for language in languages: %}
+                {% if languages.index(language) < languages |length -1: %}
+                    {{language}},
+                {% else: %}
+                    {{language}}
+                {% endif %}
+            {% endfor %}
+        </td>
+    </tr>
+    <tr>
+        <td>Landlocked:</td>
+        <td> {% if country_data[0]["landlocked"]: %}
+                Yes
+            {% else: %}
+                No
+            {% endif %}
+        </td>
+    </tr>
+    <tr>
+        <td>Population:</td>
+        <td>{{"{:,}".format(country_data[0]["population"])}}</td>
+    </tr>
+</table>
+
+<iframe class="map center"
+  referrerpolicy="no-referrer-when-downgrade"
+  src={{map_link}}>
+</iframe>
+
+<a class="btn btn-primary center" href="{{ url_for('choose_country') }}">Back</a>
+
+{% include "footer.html" %}

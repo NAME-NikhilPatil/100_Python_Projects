@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_94_one_of_the_hardest_project_ever">
-      <change afterPath="$PROJECT_DIR$/Day_95_Space_invaders_game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_95_Space_invaders_game">
+      <change afterPath="$PROJECT_DIR$/Day_96_Country_info_website/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_96_Country_info_website/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,11 +140,11 @@
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_42_BirthDay_invite_website_lol_ignore_this" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_96_Country_info_website" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_95_Space_invaders_game" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_87_BreakoutGame" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_86_Typing_Speed_Test_App" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_85_Image_watermarking_desktop_app\fonts" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_81_House_price_prediction_model" />
     </key>
   </component>
   <component name="RunManager">
@@ -558,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728835162707</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Day_95_Space_invaders_game">
+      <option name="closed" value="true" />
+      <created>1728964491740</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1728964491740</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -592,7 +600,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 67" />
     <MESSAGE value="Day 68" />
     <MESSAGE value="Day 69" />
     <MESSAGE value="Git and Github learning hehe" />
@@ -617,6 +624,7 @@
     <MESSAGE value="Day_92" />
     <MESSAGE value="Day_93" />
     <MESSAGE value="Day_94_one_of_the_hardest_project_ever" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_94_one_of_the_hardest_project_ever" />
+    <MESSAGE value="Day_95_Space_invaders_game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_95_Space_invaders_game" />
   </component>
 </project>
