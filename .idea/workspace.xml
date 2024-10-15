@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_96_Country_info_website" />
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_97_Online_store" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,11 +137,11 @@
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_42_BirthDay_invite_website_lol_ignore_this" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_97_LOL_an_online_shop" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_96_Country_info_website" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_95_Space_invaders_game" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_87_BreakoutGame" />
       <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_86_Typing_Speed_Test_App" />
-      <recent name="C:\Users\sharm\PycharmProjects\100_Days_Python_Challenge\Day_85_Image_watermarking_desktop_app\fonts" />
     </key>
   </component>
   <component name="RunManager">
@@ -571,7 +571,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728964960550</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Day_97_Online_store">
+      <option name="closed" value="true" />
+      <created>1728966146037</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1728966146037</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -605,7 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 69" />
     <MESSAGE value="Git and Github learning hehe" />
     <MESSAGE value="Day_70_about_copy_pasting_from_github_lol" />
     <MESSAGE value="Day_71" />
@@ -630,6 +637,7 @@
     <MESSAGE value="Day_94_one_of_the_hardest_project_ever" />
     <MESSAGE value="Day_95_Space_invaders_game" />
     <MESSAGE value="Day_96_Country_info_website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_96_Country_info_website" />
+    <MESSAGE value="Day_97_Online_store" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_97_Online_store" />
   </component>
 </project>
