@@ -20,18 +20,25 @@ Welcome to my **100 Days of Python Challenge**! 🐍 This repository features Py
 
 ### 🎮 **Day 11 to Day 20**
 11. 🃏 [Day 11: Blackjack Game](Day_11_BlackJack_Game/)
-12. 🎲 [Day 12: Guess the Number Game](Day_12_Guess_the_number_game/)
-13. 🐞 [Day 13: Debugging Exercises](Day_13/)
-14. 🔝 [Day 14: Higher Lower Game](Day_14_Higher_lower_game/)
-15. ☕ [Day 15: Coffee Machine](Day_15_Coffee_Machine/)
-16. 🍵 [Day 16: Coffee Maker Project](Day_16_Coffee_Maker_Project/)
-17. 🧠 [Day 17 & 34: Quiz Brain](Day_17_&_34_Quiz_brain/)
-18. 🐢 [Day 18: Turtle Library](Day_18_Turtle_library/)
-19. ✏️ [Day 19: Sketch App](Day_19_Sketch_app/)
-20 & 21. 🐍 [Day 20 & 21: Snake Game](Day_20_&_21_Snake_Game/)
+Here’s the updated section for **Day 11 to Day 21**, with Days 20 and 21 on a new line:
+
+---
+
+### 🎮 **Day 11 to Day 21**
+11. 🃏 [Day 11: Blackjack Game](Day_11_BlackJack_Game/)  
+12. 🎲 [Day 12: Guess the Number Game](Day_12_Guess_the_number_game/)  
+13. 🐞 [Day 13: Debugging Exercises](Day_13/)  
+14. 🔝 [Day 14: Higher Lower Game](Day_14_Higher_lower_game/)  
+15. ☕ [Day 15: Coffee Machine](Day_15_Coffee_Machine/)  
+16. 🍵 [Day 16: Coffee Maker Project](Day_16_Coffee_Maker_Project/)  
+17. 🧠 [Day 17 & 34: Quiz Brain](Day_17_&_34_Quiz_brain/)  
+18. 🐢 [Day 18: Turtle Library](Day_18_Turtle_library/)  
+19. ✏️ [Day 19: Sketch App](Day_19_Sketch_app/)  
+20. 🐍 [Day 20: Snake Game](Day_20_&_21_Snake_Game/)  
 
 
 ### 🎨 **Day 21 to Day 30**
+21. 🐍 [Day 21: Snake Game_2](Day_20_&_21_Snake_Game/)  
 22. 🏓 [Day 22: Paddle Game](Day_22_Paddle_game/)
 23. 🚦 [Day 23: Turtle Crossing Game](Day_23_Turtle_game/)
 24. 📂 [Day 24: File Operations](Day_24_File_operations/)
@@ -39,9 +46,9 @@ Welcome to my **100 Days of Python Challenge**! 🐍 This repository features Py
 26. 📞 [Day 26: NATO Phonetic Alphabet](Day_26/)
 27. 📏 [Day 27: Mile to Kilometer Converter with GUI](Day_27-Mile_to_kilometer_converter_with_gui/)
 28. ⏲️ [Day 28: Pomodoro with GUI](Day_28-Pomodoro_with_GUI/)
+29. 🔑 [Day 29: Password Manager with GUI](Day_29_&_30-Password_Manager_with_GUI/)  
+30. 🔑 [Day 30: Password Manager with GUI_2](Day_29_&_30-Password_Manager_with_GUI/)
     
-29 & 30. 🔑 [Day 29 & 30: Password Manager with GUI](Day_29_&_30-Password_Manager_with_GUI/)
-
 
 ### 🌐 **Day 31 to Day 40**
 31. 📚 [Day 31: Flash Card Project](Day_31-Flash_Card_Project/)
@@ -51,8 +58,8 @@ Welcome to my **100 Days of Python Challenge**! 🐍 This repository features Py
 36. 📈 [Day 36: Stock Trading News Alert](Day_36-Stock_Trading_News_Alert_Project/)
 37. 📊 [Day 37: Habit Tracker](Day_37-Habit_Tracker/)
 38. 🏋️‍♂️ [Day 38: Workout Tracking Using Python](Day_38-Workout_tracking_using_python/)
-    
-39-40. ✈️ [Day 39 & 40: Flight Deal Finder](Day_39_&_40-Flight_deal_Finder/)
+39. ✈️ [Day 39: Flight Deal Finder](Day_39_&_40-Flight_deal_Finder/)  
+40. ✈️ [Day 40: Flight Deal Finder_2](Day_39_&_40-Flight_deal_Finder/)  
 
 
 ### 💻 **Day 41 to Day 50**
