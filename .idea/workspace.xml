@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_98_Custom_automation_project">
-      <change afterPath="$PROJECT_DIR$/Day_98_Custom_atomation_project/Animation.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_98_Custom_atomation_project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_98_Custom_atomation_project/sync.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b634900d-2e5f-4026-8c89-c09798735bee" name="Changes" comment="Day_99_analyzing_and_visualizing_space_race" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,14 +194,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719998332269</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Day 1-5">
-      <option name="closed" value="true" />
-      <created>1720282532038</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1720282532038</updated>
     </task>
     <task id="LOCAL-00002" summary="Day 1-5">
       <option name="closed" value="true" />
@@ -592,7 +579,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728966546656</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Day_99_analyzing_and_visualizing_space_race">
+      <option name="closed" value="true" />
+      <created>1728966630289</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1728966630290</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -626,7 +621,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day_70_about_copy_pasting_from_github_lol" />
     <MESSAGE value="Day_71" />
     <MESSAGE value="Day_72" />
     <MESSAGE value="Day_74" />
@@ -651,6 +645,7 @@
     <MESSAGE value="Day_96_Country_info_website" />
     <MESSAGE value="Day_97_Online_store" />
     <MESSAGE value="Day_98_Custom_automation_project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day_98_Custom_automation_project" />
+    <MESSAGE value="Day_99_analyzing_and_visualizing_space_race" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_99_analyzing_and_visualizing_space_race" />
   </component>
 </project>
