@@ -18,12 +18,6 @@ Welcome to my **100 Days of Python Challenge**! 🐍 This repository features Py
 10. ➗ [Day 10: Calculator with Advanced Concepts](Day_10_Calculator_with_advance_concepts/)
 
 
-### 🎮 **Day 11 to Day 20**
-11. 🃏 [Day 11: Blackjack Game](Day_11_BlackJack_Game/)
-Here’s the updated section for **Day 11 to Day 21**, with Days 20 and 21 on a new line:
-
----
-
 ### 🎮 **Day 11 to Day 21**
 11. 🃏 [Day 11: Blackjack Game](Day_11_BlackJack_Game/)  
 12. 🎲 [Day 12: Guess the Number Game](Day_12_Guess_the_number_game/)  
